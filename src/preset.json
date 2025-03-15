@@ -12,7 +12,7 @@
               {"id":1691511378165,"name":"DeepSeek","url":"https://www.deepseek.com/"},
               {"id":1691511387328,"name":"智谱清言","url":"https://chatglm.cn/"},
               {"id":1691511404536,"name":"Kimi智能助手","url":"https://kimi.moonshot.cn/"},
-              {"id":1691511425429,"name":"Claude","url":"https://claude.ai/"},
+              {"id":1691511425429,"name":"豆包","url":"https://www.doubao.com/"},
               {"id":1691511442949,"name":"讯飞星火","url":"https://xinghuo.xfyun.cn/"}
             ]
           },
@@ -68,7 +68,7 @@
       },
       {
         "id": 1683446922689,
-        "name": "AI应用场景",
+        "name": "AI应用",
         "groupList": [
           {
             "id": 1683458769247,
@@ -110,7 +110,7 @@
             "id": 1683458693922,
             "name": "教师常用",
             "siteList": [
-              {"id":1683458701435,"name":"海螺AI","url":"https://example.com/hailuo-ai/"},
+              {"id":1683458701435,"name":"海螺AI","url":"https://chat.minimaxi.com/"},
               {"id":1683458709123,"name":"ClassPoint","url":"https://classpoint.io/"},
               {"id":1683458716567,"name":"WPS AI","url":"https://ai.wps.cn/"},
               {"id":1683458727144,"name":"扣子","url":"https://www.coze.cn/store/bot/"},
@@ -135,7 +135,7 @@
     ],
      "settings": {
           "theme": "MoonWhite",
-          "search": "baidu",
+          "search": "Baidu",
           "iconStyle": "Plain",
           "siteStyle": "auto"
     }

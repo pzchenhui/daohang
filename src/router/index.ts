@@ -7,7 +7,7 @@ const router = createRouter({
     ...routes,
      {
       path: '/m-word',
-      redirect: 'index.html' // 重定向到 HTML 文件
+      redirect: '/m-word/index.html' // 重定向到 HTML 文件
     },
     {
       path: '/:pathMatch(.*)*',

@@ -120,11 +120,11 @@
           },
           {
             "id": 1691511821007,
-            "name": "医疗健康",
+            "name": "学科应用",
             "siteList": [
-              {"id":1691511839205,"name":"DeepMind Health","url":"https://deepmind.google/"},
-              {"id":1691511866538,"name":"Insilico Medicine","url":"https://insilico.com/"},
-              {"id":1691511881294,"name":"PathAI","url":"https://www.pathai.com/"},
+              {"id":1691511839205,"name":"高中地理","url":"http://d.pz5.net"},
+              {"id":1691511866538,"name":"班级管理","url":"http://t.pz5.net"},
+              {"id":1691511881294,"name":"数学","url":"http://s.pz5.net"},
               {"id":1691511961351,"name":"Babylon Health","url":"https://www.babylonhealth.com/"},
               {"id":1691511914671,"name":"Zebra Medical","url":"https://www.zebra-med.com/"},
               {"id":1691511939871,"name":"Butterfly Network","url":"https://www.butterflynetwork.com/"}
